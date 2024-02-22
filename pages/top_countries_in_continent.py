@@ -22,7 +22,6 @@ chart_data.rename(columns = {f"{year} Population":'Population', "Country/Territo
 def on_selection(state):
     new_chart = DATA.loc[DATA["Continent"]==state.continent].sort_values(by=[f"{state.year} Population"], ascending=False)[['Country/Territory', f"{state.year} Population"]]
     new_chart.rename(columns = {f"{state.year} Population":'Population', "Country/Territory" : "Countries/Territories" }, inplace = True)
-    print(new_chart)
     state.chart_data = new_chart
 
 # Creating Page 

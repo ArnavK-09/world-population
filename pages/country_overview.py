@@ -30,6 +30,10 @@ country_info_data = {
 # Country selector handler 
 def on_selection(state):
     COUNTRY_DATA = (DATA.iloc[COUNTRIES.index(state.country)])
+    state.country_info_data = {
+        "Attribute": COUNTRY_DATA.index.tolist(),
+        "Content": COUNTRY_DATA.values.tolist()
+     }
     state.LINE_GRAPH_DATA = {
         "Population": list(COUNTRY_DATA[5:13]),
         "Years": list(map(lambda x: x.replace("Population", "").strip(), years_list)), # Formatting Years
