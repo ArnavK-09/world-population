@@ -2,7 +2,7 @@
 <|navbar|>
 <|container|
 
-# 💯 Top **Population**{: .color-primary} Countries in **Continent**{: .color-primary}! **(Top 5)**{: .color-warning}
+# 💯 Top **Countries**{: .color-primary} Population in **Continent**{: .color-primary}!
 
 <|1 1|layout|
 
@@ -15,5 +15,5 @@
 <|{year}|selector|lov={YEARS}|dropdown|on_change=on_selection|>
 |>
 <br />
-<|{chart_data}|chart|type=bar|>
+<|{chart_data}|chart|type=bar|x=Countries/Territories|y=Population|>
 |>

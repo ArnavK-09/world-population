@@ -2,8 +2,6 @@
 from taipy.gui import Markdown
 import pandas as pd
 
-import random
-
 # Our data file 
 DATA = pd.read_csv("./data.csv")
 
@@ -50,7 +48,6 @@ pie_of_1970 = {
 
 # Pie configuration
 pie_options = {
-    # Hide the texts
     "textinfo": "none"
 }
 

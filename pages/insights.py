@@ -18,4 +18,4 @@ LINE_GRAPH_DATA = {
 }
 
 # Creating Page 
-index_page = Markdown("index.md")
+insights_page = Markdown("insights.md")

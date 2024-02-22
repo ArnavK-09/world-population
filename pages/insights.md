@@ -5,5 +5,5 @@
 # 🌏 **Population**{: .color-primary} Increase in Our **World**{: .color-primary}
 
 <br />
-<|{LINE_GRAPH_DATA}|chart|x=Population|y=Years|color=#ff6049|>
+<|{LINE_GRAPH_DATA}|chart|y=Population|x=Years|color=#ff6049|>
 |>
