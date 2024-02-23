@@ -8,14 +8,14 @@
 
 ### Choose **1st**{: .color-primary} Country!
 
-<|{country1}|selector|lov={COUNTRIES}|dropdown|on_change=choose_country1|>
+<|{country1}|selector|lov={COUNTRIES}|dropdown|on_change=choose_country|>
 
 ### Choose **2nd**{: .color-primary} Country!
 
-<|{country2}|selector|lov={COUNTRIES}|dropdown|on_change=choose_country2|>
+<|{country2}|selector|lov={COUNTRIES}|dropdown|on_change=choose_country|>
 |>
 <br />
-<|{country1}|>
-<|{country2}|>
-<|{DATA}|chart|>
+
+<|{LINE_GRAPH_DATA}|chart|mode=lines|x=Years|y[1]=Country1|y[2]=Country2|>
+
 |>
