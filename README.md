@@ -34,7 +34,7 @@
   
   ![Ping Command](demo/ping.jpg)
   
-  *Sneak out the speed of bot!*
+  **🌏 Insights**
   
 </td>
 </tr>
@@ -43,7 +43,7 @@
   
   ![Ping Command](demo/ping.jpg)
   
-  *Sneak out the speed of bot!*
+  **🎄 Country Population**
   
 </td>
 </tr>
@@ -52,7 +52,7 @@
   
   ![Ping Command](demo/ping.jpg)
   
-  *Sneak out the speed of bot!*
+  **💯 Top Countries in Continent**
   
 </td>
 </tr>
@@ -61,7 +61,7 @@
   
   ![Ping Command](demo/ping.jpg)
   
-  *Sneak out the speed of bot!*
+  **⚡ Compare Countries**
   
 </td>
 </tr>
@@ -70,7 +70,7 @@
   
   ![Ping Command](demo/ping.jpg)
   
-  *Sneak out the speed of bot!*
+  **🥧 Pie Charts**
   
 </td>
 </tr>
@@ -79,7 +79,7 @@
   
   ![Ping Command](demo/ping.jpg)
   
-  *Sneak out the speed of bot!*
+  **➕ Total Population**
   
 </td>
 </tr>
@@ -88,7 +88,7 @@
   
   ![Ping Command](demo/ping.jpg)
   
-  *Sneak out the speed of bot!*
+  **📅 Explore Dataset**
   
 </td>
 </tr>
@@ -97,7 +97,7 @@
   
   ![Ping Command](demo/ping.jpg)
   
-  *Sneak out the speed of bot!*
+  **📱 Mobile Preview**
   
 </td>
 </tr>
