@@ -24,7 +24,7 @@
 ## 🎥 Live Demo
 
 ##### You can check out a live demo here: 
-- ####[https://world-population.taipy.cloud/](https://world-population.taipy.cloud/)
+- #### [🌐 https://world-population.taipy.cloud/](https://world-population.taipy.cloud/)
 
 ## 📊 Screenshots
 
