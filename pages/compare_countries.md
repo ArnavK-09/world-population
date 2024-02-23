@@ -16,6 +16,6 @@
 |>
 <br />
 
-<|{LINE_GRAPH_DATA}|chart|mode=lines|x=Years|y[1]=Country1|y[2]=Country2|>
+<|{LINE_GRAPH_DATA}|chart|mode=lines|x=Years|y[1]=Country1|y[2]=Country2|y[3]=World Average|line[1]=longdash|line[2]=longdashdot|line[3]=dot|>
 
 |>

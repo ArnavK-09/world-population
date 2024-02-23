@@ -5,6 +5,14 @@ import pandas as pd
 # Our data file 
 DATA = pd.read_csv("./data.csv")
 
+# Returns worl average population according to years
+def get_world_average_population(YEARS):
+    world_average = []
+    for index, year in enumerate(YEARS):
+        year_sum = DATA["{} Population".format(year)].mean()
+        world_average.append(year_sum)
+    return world_average
+
 # All Countries List 
 COUNTRIES = list(DATA["Country/Territory"].unique())
 
@@ -20,12 +28,16 @@ country2 = COUNTRIES[41] # China
 COUNTRY_DATA1 = (DATA.iloc[COUNTRIES.index(country1)])
 COUNTRY_DATA2 = (DATA.iloc[COUNTRIES.index(country2)])
 
+# world average population
+world_average_population = get_world_average_population(YEARS)
+
 # Selection Handler for Country
 def choose_country(state):
     COUNTRY_DATA1 = (DATA.iloc[COUNTRIES.index(state.country1)])
     COUNTRY_DATA2 = (DATA.iloc[COUNTRIES.index(state.country2)])
     state.LINE_GRAPH_DATA = {
         "Years": YEARS, 
+        "World Average": world_average_population,
         "Country1": list(COUNTRY_DATA1[5:13]),
         "Country2": list(COUNTRY_DATA2[5:13]),
     }
@@ -33,6 +45,7 @@ def choose_country(state):
 # Graph Data
 LINE_GRAPH_DATA = {
     "Years": YEARS,
+    "World Average": world_average_population,
     "Country1": list(COUNTRY_DATA1[5:13]),
     "Country2": list(COUNTRY_DATA2[5:13]),
 }
