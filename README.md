@@ -128,3 +128,4 @@ This app makes **exploring world population** data easy and engaging. Built on t
 <p align="center"><strong>Give this repo a ⭐ if you found it useful!</strong></p>
 
 ---
+<p align="center">©Dataset Provided By <a href="https://kaggle.com">Kaggle</a></p>
