@@ -8,16 +8,16 @@
 
 ## 🚀 Features
 
-- Get insights into world population trends 
-- Compare country populations over time
-- Dive into population stats for each country 
-- Explore population in Continent with its childs
-- Light and dark theme supported
-- Get Geographical data of countries
-- Responsive UI and UX
-- Interactive pie charts to visualize data
-- Filterable list of countries by continent 
-- See total world population year-over-year
+- Get **insights** into world population trends 
+- **Compare** country populations over time
+- Dive into population **stats** for each country 
+- Explore population in **Continent** with its childs
+- Light and dark **theme** supported
+- Get **Geographical** data of countries
+- Responsive **UI** and UX
+- Interactive **Pie** charts to visualize data
+- Filterable **list** of countries by continent 
+- See total world population **year-over-year**
 
 ---
 
@@ -121,7 +121,7 @@
 
 ## 📝 Summary
 
-This app makes exploring world population data easy and engaging. Built on the powerful Taipy library, it enables complex analysis with minimal code. Check out the live demo link above to see it in action. 
+This app makes **exploring world population** data easy and engaging. Built on the powerful Taipy library, it enables moderate analysis with minimal code.
 
 ---
 
