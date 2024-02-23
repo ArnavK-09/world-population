@@ -27,4 +27,4 @@ if __name__ == '__main__':
     Core().run()  
     app = Gui()
     app.add_pages(ROUTES)
-    app.run(use_reloader=True,title="World Population Exploration!", watermark="Explore World Data!", favicon="https://emojifavicon.dev/favicons/1f30e.png")
+    app.run(title="World Population Exploration!", watermark="Explore World Data!", favicon="https://emojifavicon.dev/favicons/1f30e.png")
