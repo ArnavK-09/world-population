@@ -19,13 +19,91 @@
 - Filterable list of countries by continent 
 - See total world population year-over-year
 
+---
+
 ## 🎥 Live Demo
 
 ##### You can check out a live demo here: [https://world-population.taipy.cloud/](https://world-population.taipy.cloud/)
 
 ## 📊 Screenshots
 
-![App Screenshot](screenshot.png)
+
+<table>
+<tr>
+<td>
+  
+  ![Ping Command](demo/ping.jpg)
+  
+  *Sneak out the speed of bot!*
+  
+</td>
+</tr>
+<tr>
+<td>
+  
+  ![Ping Command](demo/ping.jpg)
+  
+  *Sneak out the speed of bot!*
+  
+</td>
+</tr>
+<tr>
+<td>
+  
+  ![Ping Command](demo/ping.jpg)
+  
+  *Sneak out the speed of bot!*
+  
+</td>
+</tr>
+<tr>
+<td>
+  
+  ![Ping Command](demo/ping.jpg)
+  
+  *Sneak out the speed of bot!*
+  
+</td>
+</tr>
+<tr>
+<td>
+  
+  ![Ping Command](demo/ping.jpg)
+  
+  *Sneak out the speed of bot!*
+  
+</td>
+</tr>
+<tr>
+<td>
+  
+  ![Ping Command](demo/ping.jpg)
+  
+  *Sneak out the speed of bot!*
+  
+</td>
+</tr>
+<tr>
+<td>
+  
+  ![Ping Command](demo/ping.jpg)
+  
+  *Sneak out the speed of bot!*
+  
+</td>
+</tr>
+<tr>
+<td>
+  
+  ![Ping Command](demo/ping.jpg)
+  
+  *Sneak out the speed of bot!*
+  
+</td>
+</tr>
+</table>
+
+---
 
 ## 🤝 Contributing
 > Contributions of any kind are welcome! 
@@ -44,4 +122,8 @@
 
 This app makes exploring world population data easy and engaging. Built on the powerful Taipy library, it enables complex analysis with minimal code. Check out the live demo link above to see it in action. 
 
+---
+
 <p align="center"><strong>Give this repo a ⭐ if you found it useful!</strong></p>
+
+---
