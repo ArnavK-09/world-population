@@ -2,18 +2,20 @@
 <|navbar|lov={[("/insights", "🌏 Insights"), ("/country_overview", "🎄 Country Population"), ("/top_countries_in_continent", "💯 Top Countries in Continent"), ("/compare_countries", "⚡ Compare Countries"), ("/pie_charts", "🥧 Pie Charts"), ("/total_population", "➕ Total"), ("/dataset", "📅 Explore Dataset")]}|>
 <|container|
 
-# 💯 Top **Countries**{: .color-primary} Population in **Continent**{: .color-primary}!
+# ⚡ Compare **Countries**{: .color-primary} Population!
 
 <|1 1|layout|
 
-### Choose **Continent**{: .color-primary}!
+### Choose **1st**{: .color-primary} Country!
 
-<|{continent}|selector|lov={CONTINENTS}|dropdown|on_change=on_selection|>
+<|{country1}|selector|lov={COUNTRIES}|dropdown|on_change=choose_country1|>
 
-### Choose **Year**{: .color-primary}!
+### Choose **2nd**{: .color-primary} Country!
 
-<|{year}|selector|lov={YEARS}|dropdown|on_change=on_selection|>
+<|{country2}|selector|lov={COUNTRIES}|dropdown|on_change=choose_country2|>
 |>
 <br />
-<|{chart_data}|chart|type=bar|x=Countries/Territories|y=Population|>
+<|{country1}|>
+<|{country2}|>
+<|{DATA}|chart|>
 |>
