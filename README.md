@@ -23,7 +23,7 @@
 
 ## 🎥 Live Demo
 
-##### You can check out a live demo here: [https://world-population.taipy.cloud/](https://world-population.taipy.cloud/)
+### You can check out a live demo here: [https://world-population.taipy.cloud/](https://world-population.taipy.cloud/)
 
 ## 📊 Screenshots
 
@@ -32,7 +32,7 @@
 <tr>
 <td>
   
-  ![Ping Command](demo/ping.jpg)
+  ![insights](demo/insights.png)
   
   **🌏 Insights**
   
@@ -41,7 +41,7 @@
 <tr>
 <td>
   
-  ![Ping Command](demo/ping.jpg)
+  ![country](demo/country.png)
   
   **🎄 Country Population**
   
@@ -50,7 +50,7 @@
 <tr>
 <td>
   
-  ![Ping Command](demo/ping.jpg)
+  ![top_countries_in_continent](demo/top_countries_in_continent.png)
   
   **💯 Top Countries in Continent**
   
@@ -59,7 +59,7 @@
 <tr>
 <td>
   
-  ![Ping Command](demo/ping.jpg)
+  ![compare_countries](demo/compare_countries.png)
   
   **⚡ Compare Countries**
   
@@ -68,7 +68,7 @@
 <tr>
 <td>
   
-  ![Ping Command](demo/ping.jpg)
+  ![pie](demo/pie.png)
   
   **🥧 Pie Charts**
   
@@ -77,7 +77,7 @@
 <tr>
 <td>
   
-  ![Ping Command](demo/ping.jpg)
+  ![total_population](demo/total_population.png)
   
   **➕ Total Population**
   
@@ -86,7 +86,7 @@
 <tr>
 <td>
   
-  ![Ping Command](demo/ping.jpg)
+  ![dataset](demo/dataset.png)
   
   **📅 Explore Dataset**
   
@@ -95,7 +95,7 @@
 <tr>
 <td>
   
-  ![Ping Command](demo/ping.jpg)
+  ![mobile_menu](demo/mobile_menu.png)
   
   **📱 Mobile Preview**
   
