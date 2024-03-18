@@ -69,7 +69,7 @@
 <tr>
 <td>
   
-  ![pie](demo/pie.png)
+  ![pie](demo/pie.jpeg)
   
   **🥧 Pie Charts**
   
